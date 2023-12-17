@@ -1,0 +1,7 @@
+//@Backend_XRPL_Dev_ASP.NETCore_8_WebAPI_HostAddress = http://localhost:7071
+@Backend_XRPL_Dev_ASP.NETCore_8_WebAPI_HostAddress = http://localhost:5136
+
+GET {{Backend_XRPL_Dev_ASP.NETCore_8_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
